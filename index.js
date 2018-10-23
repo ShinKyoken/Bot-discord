@@ -174,4 +174,4 @@ bot.on('message', function (message){
 })
 
 
-bot.login("NDgwMzMzNjAxMTQxOTQ4NDI3.Dms0qA.WU1GDdnNwFPeTfHzRuRAZ7zEg1k")
+bot.login("")
